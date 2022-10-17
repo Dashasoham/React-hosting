@@ -16,12 +16,12 @@
 
 .Weather .current-city {
   position: relative;
+
   top: 0px;
-  left: 50px;
 }
 .units {
   position: relative;
-  left: 20px;
+  left: 0px;
   top: -20px;
 }
 .Weather .units a {
@@ -38,6 +38,8 @@
 .Weather .footer {
   margin-bottom: -20px;
   font-size: 14px;
+  position: fixed;
+  margin-left: 20px;
 }
 .Weather .main-image {
   padding-left: 30px;

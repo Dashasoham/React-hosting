@@ -71,9 +71,9 @@ export default function Weather() {
         </div>
       </div>
       <p className="footer">
-        Coded by Daria Korniienko. This project is open-sourced on
+        Coded by Daria Korniienko. This project is open-sourced on{' '}
         <a
-          href="https://github.com/Dashasoham/Weather-Project"
+          href="https://github.com/Dashasoham/React-hosting"
           target="_blank"
           rel="noreferrer"
         >
