@@ -1,0 +1,44 @@
+.Weather .app-wrapper {
+  background-image: radial-gradient(
+    circle,
+    #f1f1e6,
+    #d5e2d8,
+    #bcd2d0,
+    #abbfc9,
+    #a5abbd
+  );
+  padding: 30px;
+  border: 1px solid #a5abbd;
+  border-radius: 7px;
+  margin-top: 20px;
+  max-width: 700px;
+}
+
+.Weather .current-city {
+  position: relative;
+  top: 0px;
+  left: 50px;
+}
+.units {
+  position: relative;
+  left: 30px;
+  top: -20px;
+}
+.Weather .units a {
+  color: #495c83;
+
+  text-decoration: none;
+  position: relative;
+}
+
+.Weather .current-city {
+  color: #495c83;
+}
+
+.Weather .footer {
+  margin-bottom: -20px;
+  font-size: 14px;
+}
+.Weather .main-image {
+  padding-left: 30px;
+}
